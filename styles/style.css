@@ -135,6 +135,18 @@ header nav ul li {
     font-size: 13px;
 }
 
+/* MIEMBROS */
+
+.contenedor-miembros {
+	width: 940px;
+	max-width: 100%;
+	margin: auto;
+    padding: 70px 0px;
+} 
+
+.contenedor-miembros ul li {
+    padding: 10px 0px;
+}
 /* FOOTER */
 
 footer {
